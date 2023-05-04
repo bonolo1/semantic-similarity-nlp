@@ -81,7 +81,7 @@ docker run -i bonolor/semantic-similarity-nlp
   pip install --upgrade pip
   ```
 
-11. Install language maodel:
+11. Install language model:
 
   ```
   python -m spacy download en_core_web_md
