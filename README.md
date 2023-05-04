@@ -41,7 +41,7 @@ docker run -i bonolor/semantic-similarity-nlp
 
 ### Virtual Environment
 
-1. Download the followiing files in the repository: semantic.py and requirements.txt
+1. Download the followiing files in the repository: semantic.py and requirements.txt.
 
 2. Create a project folder named "semantic_similarity".
  
@@ -81,7 +81,7 @@ docker run -i bonolor/semantic-similarity-nlp
   pip install --upgrade pip
   ```
 
-11. Install the English model.
+11. Install language maodel:
 
   ```
   python -m spacy download en_core_web_md
