@@ -94,4 +94,4 @@ docker run -i bonolor/semantic-similarity-nlp
 
 ## Usage <a name="usage"><a>
 
-Shows the output of similarity scores to demontrate how semantic similary works.
+Shows the output of similarity scores to demontrate how semantic similariy works.
